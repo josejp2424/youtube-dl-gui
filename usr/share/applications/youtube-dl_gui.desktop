@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=youtube-dl gui
+GenericName=youtube-dl gui
+Comment=Download videos from Youtube
+Comment[es]=Descarga videos de youtube
+Exec=Youtube_dl-gui.sh
+Icon=/usr/share/pixmaps/youtube-gui.png
+Terminal=false
+Categories=X-Internet
+Type=Application
